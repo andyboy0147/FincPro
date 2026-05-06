@@ -1,4 +1,4 @@
-FROM php:8.2-apache
+FROM php:5.4-apache
 
 # Enable Apache Rewrite Module
 RUN a2enmod rewrite
