@@ -1,0 +1,358 @@
+[21-Jun-2019 05:07:08 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:07:08 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:10:56 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:10:56 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:11:44 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:11:44 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:23:59 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:23:59 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:24:07 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:24:07 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:24:18 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:24:18 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:25:23 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:25:23 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:25:38 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:25:38 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:42:48 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:42:48 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:42:55 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:42:55 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:44:09 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:44:09 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:44:59 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:44:59 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:45:10 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:45:10 America/New_York] PHP Notice:  Undefined variable: DB_SERVER in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 05:45:10 America/New_York] PHP Notice:  Undefined variable: DB_USER in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 05:45:10 America/New_York] PHP Notice:  Undefined variable: DB_PASS in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 05:45:10 America/New_York] PHP Notice:  Undefined variable: DB_NAME in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 05:45:10 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 05:45:10 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 54
+[21-Jun-2019 05:45:10 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 54
+[21-Jun-2019 05:45:10 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:46:50 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:46:50 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:46:59 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:46:59 America/New_York] PHP Notice:  Undefined variable: DB_SERVER in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 05:46:59 America/New_York] PHP Notice:  Undefined variable: DB_USER in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 05:46:59 America/New_York] PHP Notice:  Undefined variable: DB_PASS in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 05:46:59 America/New_York] PHP Notice:  Undefined variable: DB_NAME in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 05:46:59 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 05:49:15 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:49:15 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:49:26 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:49:26 America/New_York] PHP Notice:  Undefined variable: DB_SERVER in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 05:49:26 America/New_York] PHP Notice:  Undefined variable: DB_USER in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 05:49:26 America/New_York] PHP Notice:  Undefined variable: DB_PASS in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 05:49:26 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 05:50:37 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:50:37 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:50:44 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:50:44 America/New_York] PHP Notice:  Undefined variable: DB_NAME in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 44
+[21-Jun-2019 05:50:44 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 54
+[21-Jun-2019 05:50:44 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 54
+[21-Jun-2019 05:50:44 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:50:51 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:50:51 America/New_York] PHP Notice:  Undefined variable: DB_NAME in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 44
+[21-Jun-2019 05:50:51 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 54
+[21-Jun-2019 05:50:51 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 54
+[21-Jun-2019 05:50:51 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:52:29 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:52:29 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:52:35 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:52:35 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 61
+[21-Jun-2019 05:52:35 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 61
+[21-Jun-2019 05:52:35 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 70
+[21-Jun-2019 05:52:35 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 70
+[21-Jun-2019 05:52:35 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:54:05 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:54:05 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 49
+[21-Jun-2019 05:54:05 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:56:02 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:56:02 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 49
+[21-Jun-2019 05:56:02 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 05:56:11 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 05:56:11 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 49
+[21-Jun-2019 05:56:11 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:00:29 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:00:29 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 49
+[21-Jun-2019 06:00:29 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:24:02 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:24:02 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 49
+[21-Jun-2019 06:24:02 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:24:26 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:24:26 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 36
+[21-Jun-2019 06:24:26 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:26:01 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:26:01 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 30
+[21-Jun-2019 06:26:01 America/New_York] PHP Warning:  mysql_query() expects parameter 2 to be resource, object given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 36
+[21-Jun-2019 06:26:01 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:28:58 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:28:58 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:31:14 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:31:14 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:41:52 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:41:52 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:41:52 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:41:52 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 48
+[21-Jun-2019 06:41:52 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:43:19 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:43:19 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:43:19 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:43:19 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 47
+[21-Jun-2019 06:43:19 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 48
+[21-Jun-2019 06:43:19 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:43:27 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:43:27 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:43:27 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:43:27 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 47
+[21-Jun-2019 06:43:27 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 48
+[21-Jun-2019 06:43:27 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:43:39 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:43:39 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:43:39 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:43:39 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:50:38 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:50:38 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:50:38 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:50:38 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 47
+[21-Jun-2019 06:50:38 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 48
+[21-Jun-2019 06:50:38 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 114
+[21-Jun-2019 06:50:38 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 131
+[21-Jun-2019 06:50:38 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/finavknb/ssibanks.com/test/admin/include/template.php:121) in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 138
+[21-Jun-2019 06:50:38 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:50:51 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:50:51 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:50:51 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:50:51 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 47
+[21-Jun-2019 06:50:51 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 48
+[21-Jun-2019 06:50:51 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 114
+[21-Jun-2019 06:50:51 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 131
+[21-Jun-2019 06:50:51 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/finavknb/ssibanks.com/test/admin/include/template.php:121) in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 138
+[21-Jun-2019 06:50:51 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:51:15 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:51:15 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:51:15 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:51:15 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 114
+[21-Jun-2019 06:51:15 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 131
+[21-Jun-2019 06:51:15 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/finavknb/ssibanks.com/test/admin/include/template.php:121) in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 138
+[21-Jun-2019 06:51:15 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:51:23 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:51:23 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:51:23 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:51:23 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 114
+[21-Jun-2019 06:51:23 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 131
+[21-Jun-2019 06:51:23 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/finavknb/ssibanks.com/test/admin/include/template.php:121) in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 138
+[21-Jun-2019 06:51:23 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:51:40 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:51:40 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:51:40 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:51:40 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 47
+[21-Jun-2019 06:51:40 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 48
+[21-Jun-2019 06:51:40 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 114
+[21-Jun-2019 06:51:40 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 131
+[21-Jun-2019 06:51:40 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/finavknb/ssibanks.com/test/admin/include/template.php:121) in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 138
+[21-Jun-2019 06:51:40 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:54:44 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:54:44 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 46
+[21-Jun-2019 06:54:44 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 46
+[21-Jun-2019 06:54:44 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 48
+[21-Jun-2019 06:54:44 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 49
+[21-Jun-2019 06:54:44 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:58:30 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:58:30 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:58:30 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:58:30 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 47
+[21-Jun-2019 06:58:30 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 48
+[21-Jun-2019 06:58:30 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:59:02 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:59:02 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:59:02 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:59:02 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 47
+[21-Jun-2019 06:59:02 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 48
+[21-Jun-2019 06:59:02 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 06:59:22 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 06:59:22 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:59:22 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 06:59:22 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:02:55 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:02:55 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 07:02:55 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 07:02:55 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 47
+[21-Jun-2019 07:02:55 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 48
+[21-Jun-2019 07:02:55 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:05:46 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:05:46 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 07:05:46 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 07:05:46 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 47
+[21-Jun-2019 07:05:46 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 48
+[21-Jun-2019 07:05:46 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:05:59 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:05:59 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 07:05:59 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 07:05:59 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 47
+[21-Jun-2019 07:05:59 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 48
+[21-Jun-2019 07:05:59 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:06:48 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:06:48 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 07:06:48 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 07:06:48 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 47
+[21-Jun-2019 07:06:48 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 48
+[21-Jun-2019 07:06:48 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:11:58 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:11:58 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 42
+[21-Jun-2019 07:11:58 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 42
+[21-Jun-2019 07:11:58 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 44
+[21-Jun-2019 07:11:58 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 07:11:58 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:12:43 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:12:43 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 42
+[21-Jun-2019 07:12:43 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 42
+[21-Jun-2019 07:12:43 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 44
+[21-Jun-2019 07:12:43 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 07:12:43 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:13:04 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:13:21 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:13:21 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 42
+[21-Jun-2019 07:13:21 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 42
+[21-Jun-2019 07:13:21 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 44
+[21-Jun-2019 07:13:21 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 07:13:21 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:13:32 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:13:32 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 42
+[21-Jun-2019 07:13:32 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 42
+[21-Jun-2019 07:13:32 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 44
+[21-Jun-2019 07:13:32 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 07:13:32 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:15:59 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:15:59 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 07:15:59 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 07:15:59 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 07:15:59 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 46
+[21-Jun-2019 07:15:59 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:16:15 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:16:15 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 07:16:15 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 07:16:15 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 45
+[21-Jun-2019 07:16:15 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 46
+[21-Jun-2019 07:16:15 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:17:07 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:17:07 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 41
+[21-Jun-2019 07:17:07 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 41
+[21-Jun-2019 07:17:07 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 07:17:07 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 44
+[21-Jun-2019 07:17:07 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:17:14 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:17:14 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 41
+[21-Jun-2019 07:17:14 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 41
+[21-Jun-2019 07:17:14 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 07:17:14 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 44
+[21-Jun-2019 07:17:14 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:20:10 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:20:10 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 41
+[21-Jun-2019 07:20:10 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 41
+[21-Jun-2019 07:20:10 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 07:20:10 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 44
+[21-Jun-2019 07:20:10 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:21:09 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:21:09 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 41
+[21-Jun-2019 07:21:09 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 41
+[21-Jun-2019 07:21:09 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 43
+[21-Jun-2019 07:21:09 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 44
+[21-Jun-2019 07:21:09 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:22:46 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:22:46 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 19
+[21-Jun-2019 07:22:46 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 19
+[21-Jun-2019 07:22:46 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 21
+[21-Jun-2019 07:22:46 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 22
+[21-Jun-2019 07:22:46 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:23:18 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:23:18 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 19
+[21-Jun-2019 07:23:18 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 19
+[21-Jun-2019 07:23:18 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:23:39 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:23:39 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 19
+[21-Jun-2019 07:23:39 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 19
+[21-Jun-2019 07:23:39 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 21
+[21-Jun-2019 07:23:39 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 22
+[21-Jun-2019 07:23:39 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:23:54 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:23:54 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 19
+[21-Jun-2019 07:23:54 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 19
+[21-Jun-2019 07:23:54 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:25:06 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:25:06 America/New_York] PHP Parse error:  syntax error, unexpected 'color' (T_STRING), expecting ',' or ';' in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 27
+[21-Jun-2019 07:25:30 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:25:30 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 19
+[21-Jun-2019 07:25:30 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 19
+[21-Jun-2019 07:25:30 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 21
+[21-Jun-2019 07:25:30 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 22
+[21-Jun-2019 07:25:30 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:25:41 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:25:41 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 19
+[21-Jun-2019 07:25:41 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 19
+[21-Jun-2019 07:25:41 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 21
+[21-Jun-2019 07:25:41 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 22
+[21-Jun-2019 07:25:41 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:27:12 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:27:12 America/New_York] PHP Notice:  Undefined variable: host in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:27:12 America/New_York] PHP Notice:  Undefined variable: username in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:27:12 America/New_York] PHP Notice:  Undefined variable: password in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:27:12 America/New_York] PHP Notice:  Undefined variable: database in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:27:12 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:28:55 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:28:55 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 22
+[21-Jun-2019 07:28:55 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 22
+[21-Jun-2019 07:28:55 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 24
+[21-Jun-2019 07:28:55 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 25
+[21-Jun-2019 07:28:55 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:37:01 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:37:01 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 22
+[21-Jun-2019 07:37:01 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 22
+[21-Jun-2019 07:37:01 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 24
+[21-Jun-2019 07:37:01 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 25
+[21-Jun-2019 07:37:01 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:38:47 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:38:47 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 22
+[21-Jun-2019 07:38:47 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 22
+[21-Jun-2019 07:38:47 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 24
+[21-Jun-2019 07:38:47 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 25
+[21-Jun-2019 07:38:47 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:40:41 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:40:41 America/New_York] PHP Notice:  Undefined variable: con in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 22
+[21-Jun-2019 07:40:41 America/New_York] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, null given in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 22
+[21-Jun-2019 07:40:41 America/New_York] PHP Notice:  Undefined index: pin in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 24
+[21-Jun-2019 07:40:41 America/New_York] PHP Notice:  Undefined index: type in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 25
+[21-Jun-2019 07:40:41 America/New_York] PHP Notice:  Undefined index: hlbank_user in /home/finavknb/ssibanks.com/test/admin/include/template.php on line 249
+[21-Jun-2019 07:42:50 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:42:50 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:42:57 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:42:57 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:45:07 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:45:07 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:46:42 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:46:42 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:47:19 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:47:19 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:50:16 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:50:16 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:50:32 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:50:32 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:52:45 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:52:45 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:53:00 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:53:00 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:55:05 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:55:05 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:55:18 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:55:18 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:55:59 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:55:59 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:56:09 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:56:09 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 07:57:03 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 07:57:03 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
+[21-Jun-2019 10:36:31 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 10:37:02 America/New_York] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/finavknb/ssibanks.com/test/library/database.php on line 4
+[21-Jun-2019 10:37:02 America/New_York] PHP Notice:  A session had already been started - ignoring session_start() in /home/finavknb/ssibanks.com/test/admin/add-cot/add-cot.php on line 4
