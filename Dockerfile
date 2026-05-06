@@ -1,7 +1,7 @@
 FROM php:5.4-apache
 
 # Enable Apache Rewrite Module
-RUN a2enmod rewrite
+RUN docker-php-ext-install mysqli pdo_mysql
 
 WORKDIR /var/www/html
 
